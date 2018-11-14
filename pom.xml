@@ -24,8 +24,8 @@
     </dependency>
 	<dependency>
             <groupId>com.vdurmont</groupId>
-            <artifactId>emoji</artifactId>
-            <version>3.1</version>
+            <artifactId>emoji-java</artifactId>
+            <version>3.1.3</version>
     </dependency>
   </dependencies>
 	
