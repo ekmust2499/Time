@@ -78,7 +78,6 @@
         <directory>${project.basedir}/src/test/java/resources</directory>
       </testResource>
     </testResources>
-    <pluginManagement>
       <plugins>
             <plugin>
                 <artifactId>maven-dependency-plugin</artifactId>
