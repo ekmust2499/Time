@@ -1,1 +1,1 @@
-worker: java -jar target/bot-0.0.1-SNAPSHOT.jar
+web: java -jar target/bot-0.0.1-SNAPSHOT.jar com.main.java.Main
